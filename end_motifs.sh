@@ -9,10 +9,7 @@
 module load samtools
 module load R
 
-# combined start and end motifs into one
-
-directoryofinterest="/cluster/projects/lokgroup/baseline_cfMedip/cfDNA_MeDIP"
-
+# bam file name is passed as command line argument in the runner script
 motifholder=${1}.motifs.txt
 touch $motifholder
 
