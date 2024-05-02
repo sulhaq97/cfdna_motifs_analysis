@@ -1,2 +1,2 @@
-# cfdna_motifs_analysis
-Bunch of scripts to calculate f-profiles of cfDNA end-motifs
+# cfDNA End-motifs Analysis
+This repository contains a pipeline for calculating 4-mer end-motifs in cfDNA data.
